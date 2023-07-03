@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**poineko/poineko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi there! Welcome to my GitHub profile! 👋
+Welcome to my GitHub profile! 👋
 I'm glad you stopped by. Here are some interesting things about me:
 
 - 🔭 I’m currently working on honing my coding skills and expanding my knowledge in various programming languages.
@@ -15,7 +13,7 @@ I'm glad you stopped by. Here are some interesting things about me:
 - ⚡ Fun fact: I enjoy playing video games in my free time and exploring new hiking trails.
 
 Don't hesitate to reach out if you have any questions or just want to say hello. Let's connect and collaborate! 🚀
--->
+
 <div align="center">
   <h1 style="font-size: 24px;">My-Badges</h1>
   <a href="https://www.credly.com/badges/0ffc2df5-01aa-4fab-a209-2d2d88f37316/public_url">
